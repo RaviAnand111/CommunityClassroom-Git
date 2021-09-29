@@ -1,0 +1,32 @@
+orange	#FF7F00
+cyan	#00FFFF
+raspberry #FF007F
+teal #09A7A1
+
+red	hsl(0, 100%, 50%)
+yellow	hsl(60, 100%, 50%)
+green	hsl(120, 100%, 50%)
+cyan	hsl(180, 100%, 50%)
+blue	hsl(240, 100%, 50%)
+magenta	hsl(300, 100%, 50%)
+
+gorgeous tab : -
+
+   border-radius: 20px;
+    width: 70%;
+    height: 400px;
+    margin: 50px auto;
+    background: linear-gradient( 35deg, #CCFFFF , #FFCCCC);
+    
+    
+    can be used to create beautiful stripes with this function in background: repeat-linear-gradient( color: px, color: px, color: px, color : px);
+    
+     background: repeating-linear-gradient(
+      45deg,
+      yellow 0px,
+      yellow 40px,
+      black 40px,
+      black 80px
+    );
+    
+    

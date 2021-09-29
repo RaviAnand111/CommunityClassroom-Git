@@ -1,0 +1,34 @@
+								HTML Course 
+								
+ head -> for title, meta, style etc.
+ body -> for content.
+ h6...h1 -> tags for heading with larger font size and bold.
+ p -> paragraph tag for typing paragraph, they also give slightly bigger line break at their end after rendering. 
+ br -> linebreak.
+ b or strong -> to make word bold, strong is recommended to be used if have choice as it states clearly that the word is demanded to be strong and bold. 
+ i or em -> to make words italic, em is for emphasis so obviously it is recommended for clearity. 
+ u or ins -> to underline words, anyone can be used but ins is recommended for stating clearly that it is inserted. 
+ sup -> to write superscript
+ sub -> to write subscript.
+ del -> to show the word deleted by a line striking through the word in middle. 
+ hr -> to put horizontal rule in the webpage. 
+ img -> image tag to put image in your webpage, other attributes include src, alt, width, height, alignment. 
+ 
+ form -> to make a form in your webpage 
+         => <input> -> a box which takes input from user. 
+                    attributes -> type telling the type of input which could be text, checkbox, radio, name, submit, selected, checked.
+         => <select> -> a dropdown menu will open .
+                        <option> -> telling the select tag which options to show.
+                        
+ table -> it formats the data you give in tabular form and it looks nice. 
+           <thead> -> table head, you can include data you wish to inlcude in the head of the table you want . 
+                      <th> -> for table head or heading in the table data. 
+                      
+           <tbody> -> everything else than thead is in tbody.  
+                        <tr> -> is table row inside which we give data. 
+                                 <td> -> we give data in this tag. 
+  
+  <a> -> anchor tag to let you walk between different pages sites by clicking on a word or sentence or image. or whatever. Its attributes are href in which the link is to be given. 
+  
+  <iframe> -> this tag lets you set some other website in a  frame with changeable size and you can show any absolute link or relative link in it. It is very usefull. 
+         
